@@ -1,5 +1,5 @@
 Symptom:
-All of an employees orders are being voided when they are closed. The user is not voiding the order.
+All of an employees orders are being voided when they are closed, and the orders won't print. The user is not voiding the order.
 The order audit log will say "Voided order from Order Window"
 
 Troubleshooting:
