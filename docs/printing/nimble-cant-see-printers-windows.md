@@ -1,4 +1,7 @@
-Checking the Services (Windows print only)
+**Checking the Services** (Windows print only)
+
+Note that if you are using direct printer integration, you do not need the services.
+
 Verify that the Nimble Listener Service and Nimble Print Service are running. If one or both of the services aren't running, try starting the service and verify if it works. Also verify the services are set to auto start.
 
 
@@ -70,5 +73,5 @@ Note
 The name seems to have changed, at least as far as nimble getting in the app store.
 aegisfoundry.nimblepos_kmy2cmrr0xsqm
 aegisfoundry.nimblepos_bfn31nh2abqaa
-may be valid names now, because why the F not.
+may be valid names now
 
