@@ -7,3 +7,5 @@ If the autogratuity is fully paid to the employee, you can either set that field
 Set the guest count to the target number - e.g., 8 or more.
 
 Ensure that the server sets the guest count as part of the order. It is recommended that "require guest count" be required for the service type.
+
+### *Note that "Auto Gratuity - End of Day" is a separate charge type, and is not used for normal party of N or more gratuities.*
