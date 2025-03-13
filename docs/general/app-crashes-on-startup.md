@@ -13,4 +13,5 @@ The Nimble application crashes at startup, before allowing someone to log in eit
 - This will check the system for bad sectors on the drive, but this will take some time, especially if there are a lot of bad sectors to process.
 - If bad sectors are found, the hard drive on the system is failing.
 - If any bad sectors are found, you can try to remove and re-install the Nimble application, but if this works, it is only temporary because the hard drive is failing.
-6. (Windows Only) Reset the PC in case something on the operating system is corrupted. This will erase all data on the system and can take several hours.
+6. (Windows Only) Reset the PC in case something on the operating system is corrupted.
+> This will erase all data on the system and can take several hours. Resetting a PC is a last resort, and should NEVER be done on a back-office computer or any other non-Register device!!!
