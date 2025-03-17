@@ -15,3 +15,10 @@ The Nimble application crashes at startup, before allowing someone to log in eit
 - If any bad sectors are found, you can try to remove and re-install the Nimble application, but if this works, it is only temporary because the hard drive is failing.
 6. (Windows Only) Reset the PC in case something on the operating system is corrupted.
 > This will erase all data on the system and can take several hours. Resetting a PC is a last resort, and should NEVER be done on a back-office computer or any other non-Register device!!!
+
+
+## MacOS Troubleshoot Steps
+MacOS does not delete application data when an app is removed. If the app crashes at startup on MacOS:
+1. Uninstall the application
+2. Delete ~/Library/Containers/NimblePOS
+3. Re-Install the application
