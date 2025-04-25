@@ -1,4 +1,4 @@
-## On running a credit payment, the system returns an HTTP ERRORL 500
+## On running a credit payment, the system returns an HTTP ERROR: 500
 
 ﻿![image](https://github.com/user-attachments/assets/cca24cf0-4ae6-4e80-8750-fbe920d6d281)
 
