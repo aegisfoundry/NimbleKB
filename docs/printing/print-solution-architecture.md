@@ -11,8 +11,26 @@ Of note, you can mix-and-match between Epson, Star, and OS printing at the same 
 
 The general recommendation for most point-of-sale implementations is to use Epson or Star Direct Printing, with other options available as needed for specific use cases.
 
+## Epson Direct Printing
+* Epson Direct Printing supports Windows, iOS, and Android.
+* Epson Direct Printing only works with Ethernet / WiFi printers. Serial and USB are not currently supported.
+* Works with any Epson or Epson-compatible thermal or impact printer. Any printer that supports the ESC/POS standard should work.
+
+Epson Direct Printer Advantages:
+* Epson Direct Printing is easy to set up - No drivers are required.
+* Epson Direct Printing is very fast compared to Windows printing.
+
+Epson Direct Printer Disadvantages:
+* Epson Direct Printing does not support USB/Serial printing.
+
+When to Use Epson Direct Printing:
+* Epson Direct is the recommended print solution because it is cross-platform and can work for any mix of registers.
+
+
 ## Star Direct Printing
+
 * Star Direct Printing only works with Windows. iOS and Android are not currently supported with Star Direct.
+* Note that a Star Printer with AirPlay can be used with iOS as an OS Printer.
 * Star Direct Printing does not support logo printing from the POS; You will need to configure logo printing on the printer itself.
 * Star Direct Printing only works with Ethernet. At the moment, USB and Serial are not supported.
 * Star Printers known to work:
@@ -30,19 +48,11 @@ Star Direct Printing Disadvantages:
 * Star Direct Printing only works on Windows. If you have non-Windows registers, you would need to use other printers for those devices, or configure a Nimble Print Server
 * Star Direct Printing does not support USB/Serial printing.
 
-## Epson Direct Printing
-* Epson Direct Printing supports Windows, iOS, and Android.
-* Epson Direct Printing only works with Ethernet / WiFi printers. Serial and USB are not currently supported.
-
-Epson Direct Printer Advantages:
-* Works with any Epson or Epson-compatible thermal or impact printer. Any printer that supports the ESC/POS standard should work.
-* Epson Direct Printing is easy to set up - No drivers are required.
-* Epson Direct Printing is very fast compared to Windows printing.
-
-Epson Direct Printer Disadvantages:
-* Epson Direct Printing does not support USB/Serial printing.
+When to Use Star Direct Printing:
+* When the customer already has Star printers and is using Windows-based registers.
 
 ## OS Printing
+
 * Windows can print to any printer with a windows print driver.
 * Android can print to any printer the android device can see and access.
 * iOS requires a printer to have AirPrint capability.
@@ -58,6 +68,8 @@ Disadvantages of OS Printing:
 When to use OS Printing:
 * When you need to print to a non-traditional receipt printer, such as an 8.5x11" laser or inkjet printer.
 * When you need to print to printers that are not Star or Epson compatible.
+* You must use printers that are not ethernet or WiFi.
+* When you need a lot of granular control on the final receipt over font sizes. Epson and Star Direct printing is limited to font size of 1, 2, or 3, but OS printing can use points- e.g., 10 point vs 11 point.
 
 
 ## Print Server Printing
