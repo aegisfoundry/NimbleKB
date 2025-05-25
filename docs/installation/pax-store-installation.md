@@ -1,6 +1,8 @@
 ## Installing on a Pax device (e.g., L1400, etc)
 
-To install on a Pax device, first ensure that the device is on the latest firmware. If not, the manager of the device must do a push task to the newest firmware edition from their Pax device manager.
+To install on a Pax device, first ensure that the device is on the latest firmware. If not, the manager of the device must do a push task to the newest firmware edition from their Pax device manager. 
+
+**You cannot update the firmware from the device - the update firmware option on the device is for local file upgrades only**
 
 If you are not the party controlling the devices, contact your device manager to conduct this task.
 
