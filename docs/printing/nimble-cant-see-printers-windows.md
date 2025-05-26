@@ -11,11 +11,13 @@ NimblePrintService
 NimblePrintServer
 NimbleListener
 NimbleListenerService
+
 ﻿![image](https://github.com/user-attachments/assets/a0c3d522-fe30-4aac-8393-cfbd45f41145)
 
 
 
 A common failure is NimbleListener isn't running, as in the example below.
+
 ﻿![image](https://github.com/user-attachments/assets/fc55a9a8-b6c3-46ca-b58e-3f561805a2bf)
 
 
@@ -34,6 +36,7 @@ You can control-C out of this.
 
 
 If not, it may throw out an error like the following
+
 ﻿![image](https://github.com/user-attachments/assets/aacdeeec-c137-41f4-970b-ade14f76e735)
 
 
@@ -52,6 +55,7 @@ open a powershell prompt and run the following command:
 checknetisolation loopbackexempt -s
 
 It should look like this:
+
 ﻿![image](https://github.com/user-attachments/assets/bee6dec1-b100-4cb7-9bcd-0eb4ba0130cb)
 
 
@@ -59,10 +63,12 @@ It should look like this:
 Examples of failures
 
 Note the "AppContainer NOT FOUND" bit
+
 ﻿![image](https://github.com/user-attachments/assets/e4d18d4e-1f46-4083-b011-15eb88bcd16e)
 
 
 This is also a failure- nothing is listed
+
 ﻿![image](https://github.com/user-attachments/assets/d4df8145-ef8a-42fa-b571-5d762ae0c36b)
 
 
