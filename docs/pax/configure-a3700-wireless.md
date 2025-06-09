@@ -31,3 +31,9 @@ Enable WiFi, and select your preferred network.
 ### Notes 
 To ensure that the device is always reachable from the stations, configure your wireless settings with a static IP address, or configure the customer's wireless network to reserve an IP address for that specific device.
 
+You can also configure the WiFi from the Pax store, but the configuration must be done prior reconfiguring the USB settings. If you need to change the wireless configuration after disabling the USB, you will need to either do so manually *and* in the Pax store device configuration, OR you will need to re-enable ECM on the USB configuration, and then the updated settings from the Pax store will flow to the device.
+
+![image](https://github.com/user-attachments/assets/d2b129c2-06f2-4d50-b47c-811a350df385)
+
+
+
