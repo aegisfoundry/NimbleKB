@@ -65,8 +65,8 @@ A factory reset will NOT reset a locked connection. If the problem you are tryin
 
 ### Release Connection on a T3180
 The T3180 can get locked to only allow printing from certain sources. To unlock / release the lock, perform the following procedure:
-With the printer on, press the power button 4 times, holding about .5 seconds each time with a .5 second pause between each press.
 
-After the fourth button press, the unit should beep and restart. If it does not beep, try again.
+- With the printer on, press the power button 4 times, holding about .5 seconds each time with a .5 second pause between each press.
+- After the fourth button press, the unit should beep and restart. If it does not beep, try again.
 
 Once the unit restarts, it should be released to connect and allow printing from other sources.
