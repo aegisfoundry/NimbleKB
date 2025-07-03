@@ -33,3 +33,6 @@ If the printer shows as None
 ### Note on Pax Thermal Printers (T3810, etc)
 If you have a Pax thermal printer that will not print, press the power button 4 times in rapid succession. The printer lights should blink and the system will beep after a few seconds as it restarts. 
 This will reset the internal connection between the printer and the device using it.
+
+### Note on Star Micronics Printers (742, 650, etc)
+If you have a Star Micronics network printer and it has stopped printing, please verify that "multi-session" is enabled. See the article on Star Micronics printers and kitchen printing.
