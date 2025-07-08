@@ -46,5 +46,5 @@ Download the ZIP file from the following link: https://github.com/lixuy/LTSC-Add
 ﻿![image](https://github.com/user-attachments/assets/6ea9692e-a603-4f8b-836c-365203589c55)
 
 
-Uncompress the .ZIP file, and run the "Add-Sotre.cmd" installation file as an administrator (right-click, run as administrator) to install access to the Microsoft App store.
+Uncompress the .ZIP file, and run the "Add-Store.cmd" installation file as an administrator (right-click, run as administrator) to install access to the Microsoft App store.
 There may be errors during the installation, this is normal when preqreuisites are already installed on the system.
