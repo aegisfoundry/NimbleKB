@@ -26,8 +26,10 @@ Print triggers determine when a given print rule is fired. Below is a comprehens
 - **Reprint Payment button** is pressed from More Options Modal.
 
 ### Prompt for Email
+- Does not cause a print. Prompts user for Customer Email at end of order.
 
 ### Prompt for Text
+- Does not cause a print. Prompts user for Customer Phone at end of order.
 
 ------------------------
 
