@@ -2,7 +2,8 @@
  
 To configure tips, click or tap on the "Tip Configuration" page under the "Configuration" gear icon.
  
-![image](https://github.com/user-attachments/assets/e2778148-7b80-4ebe-9027-0e2def4e410f)
+<img width="449" height="242" alt="image" src="https://github.com/user-attachments/assets/91a9e8b0-83fd-418d-a99a-05997916d669" />
+
 
 If you disable tipping, the system will not permit orders to contain tips. 
  
@@ -12,3 +13,8 @@ Enforcing end-of-shift tip declaration will force any employee that (1) is clock
  
 Holdbacks are reporting tools that allow the store to calculate tip values after holdbacks, such as charging credit card fees to servers on tips. 
 
+You can optional enable Tip Sharing or Tip Pooling, exclusive of each other.
+- Tip Sharing allows for tipped employees to transfer part of their non-cash tips to other employees (tip-out)
+- Tip Pooling is a mechanism to assist sites that tip pools by allowing a manager to distribute the tips between eligible employees.
+
+See the specific documentation on each function for more details.
