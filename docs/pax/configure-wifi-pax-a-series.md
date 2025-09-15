@@ -14,19 +14,25 @@ If you are prompted for a password, you will need to check with your processor, 
 #### BroadPOS-based payment applications
 Tap on each corner of the screen, starting in the top-left and proceeding clockwise.
 
+
 <img width="448" height="853" alt="image" src="https://github.com/user-attachments/assets/8390c02f-478b-4273-9b08-ba8b776aa27c" />
+
 
 _You will typically see a flash or other visual indication as you tap each corner._
 
 You will often be prompted for a password. If so, use the password provided by the payment processor, or try the default Pax passwords (See the article on default pax passwords)
 
+
 <img width="349" height="728" alt="image" src="https://github.com/user-attachments/assets/594b26b5-765d-4088-88d8-ea39a5ca02f2" />
+
 
 Tap "Exit"
 
 You may be prompted for the password again.
 
+
 <img width="349" height="728" alt="image" src="https://github.com/user-attachments/assets/8265e569-07ad-4d9d-852d-c79208296401" />
+
 
 Go to "Settings"
 
@@ -40,7 +46,9 @@ Tap on "Network and Internet"
 
 Tap on the wifi network name you want to join.
 
+
 <img width="383" height="441" alt="image" src="https://github.com/user-attachments/assets/997b7a51-6c75-4a4a-aac4-1f1f1b0a704e" />
+
 
 You will enter in the wifi password here.
 
@@ -48,11 +56,15 @@ Note that if you need to set a static IP address on the device, use the "Advance
 
 Set the IP settings from DHCP (dynamic address) to Static
 
+
 <img width="297" height="317" alt="image" src="https://github.com/user-attachments/assets/51faaccf-6a62-41f7-92bb-3c6d0c7e6f77" />
+
 
 You will need to set the IP address, gateway, network prefix, and DNS server.
 
+
 <img width="337" height="363" alt="image" src="https://github.com/user-attachments/assets/8fe16eab-7c5e-4971-95a8-1d79b916dcc5" />
+
 
 The IP address, gateway, and network prefix length are specific to the customer's network. 
 
