@@ -10,6 +10,8 @@ You can set both a flat fee in dollars and a percentage fee. If you specify both
 You may also elect to enter a maximum fee amount, which will place a hard limit on the charge.
 
 You can also direct some percentage of the service charge to be payable to the employee who handled the ordered. This is typically used in situations like an autogratuity that is paid to the employees with their tips.
+
+Note that with the exception of Super Fee type charges, service charges are ONLY based on the order total and do not calculate based on the order total with other fees.
  
 ## Charges by Service Type
 Charges by service type require that an existing configured service type be selected. For example, if you are creating a delivery service charge, you would create a service type for delivery orders (See Service Types) so you can select the "Delivery" service type from the drop down list below.
@@ -47,6 +49,8 @@ Surcharges can be used by the autogratuity End of Day module, which allows store
 
 ![image](https://github.com/user-attachments/assets/c3e77e44-e220-45cc-8a19-8ba82590e3c7)
 
+## Super Fee
+Super fees are service charges that are based on the order total INCLUDING other, non-super fee service charges. If you have multiple Super Fee service charges on an order, they will not recalculate based on other super fees.
 
 ## Taxing Surcharges
  
