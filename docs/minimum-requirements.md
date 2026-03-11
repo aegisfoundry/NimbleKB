@@ -2,8 +2,7 @@
 
 ## Registers
 ### Windows
-Windows 10 with Fall Creators Update or higher.
-Windows 10 IoT requires LTSB Rev C or Higher
+Windows 10 / Windows 10 IoT/LTSC 19044 or higher. Note that Windows 10 LTSC 17763 will not work as of Nimble 2.x due to changes in how Microsoft handles applications distributed from the App Store.
 4 Core Atom CPU 1.9 Ghz or faster
 Core i5 or faster recommended for larger stores or retail
 4 Gigabytes RAM, 8 or more recommended for larger stores / retail
