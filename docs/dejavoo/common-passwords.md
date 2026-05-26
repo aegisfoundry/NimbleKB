@@ -2,5 +2,5 @@
 
 Default Manager Password: 1234
 
-Default System PIN: 336686
+Default System PINs: 336686, 1111, 1234
 
