@@ -32,6 +32,7 @@ Key Settings:
 * Ensure auto batch is ENABLED.
 * Ensure the ECR Terminal Integration Mode is EXTERNAL POS
 * Ensure the Communications port is 10009
+* Ensure the protocol is TCP and not HTTP/HTTPS
 
 All other settings, such as tip configuration, tip-on-device amounts, surcharges, fees, etc are merchant specific or utilize default settings.
 
