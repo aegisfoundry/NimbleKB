@@ -1,7 +1,5 @@
 # Salon Spa Interface
 
-Converted from `Salon_Spa_Howto.v1.0.docx`.
-
 ## Contents
 
 - [Terms](#terms)
