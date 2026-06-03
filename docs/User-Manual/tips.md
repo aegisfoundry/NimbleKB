@@ -4,7 +4,6 @@ To configure tips, click or tap on the "Tip Configuration" page under the "Confi
  
 <img width="449" height="242" alt="image" src="https://github.com/user-attachments/assets/91a9e8b0-83fd-418d-a99a-05997916d669" />
 
-
 If you disable tipping, the system will not permit orders to contain tips. 
  
 Disabling cash tipping will prevent employees from entering tips on cash orders like they would with credit card orders.
