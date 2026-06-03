@@ -40,8 +40,7 @@ Declaring credit tips and gratuities as well as cash gratuities is not required;
 To transfer or share a tip, the tipped employee would tap “Transfer Tip” 
 They will be prompted to select the employe that they are going to tip out. Note that only employees who were clocked into the system are eligible for tip transfers / sharing.
 
- <img width="289" height="288" alt="image" src="https://github.com/user-attachments/assets/c67454ae-c0a4-4bcd-949b-f23eecef43b3" />
-
+<img width="898" height="484" alt="image" src="https://github.com/user-attachments/assets/928f7018-09e2-4d1e-b252-9034fe328185" />
 
 The tipped employee will be asked how much of their sharable tips they want to send to that employee, up to the maximum amount of sharable tips. When they have entered in the amount, they will press “save” to send the tip.
 
