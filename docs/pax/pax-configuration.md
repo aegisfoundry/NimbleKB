@@ -30,7 +30,8 @@ It is stringly recommended that the device firmware be updated to the latest fir
 
 Key Settings:
 * Ensure auto batch is ENABLED.
-* Ensure the ECR Terminal Integration Mode is EXTERNAL POS
+* Ensure the ECR Terminal Integration Mode is EXTERNAL POS (Misc -> General Settings)
+* Ensure the device is set to "Dedicated Device" to ensure the application will auto start (Misc -> General Settings)
 * Ensure the Communications port is 10009
 * Ensure the protocol is TCP and not HTTP/HTTPS
 
